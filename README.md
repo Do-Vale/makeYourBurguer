@@ -1,4 +1,4 @@
-# primeiro_projeto
+# Projeto Hamburgueria VUEJS
 
 ## Project setup
 ```
