@@ -2,7 +2,7 @@
 <div id="footer">
 
    
-    <h3>Plataforma Desenvolvida Por ALexsandro Do Vale </h3>     
+    <h3>Plataforma Desenvolvida Por Alexsandro Do Vale </h3>     
     <p>Make your Burger &copy;2022</p>
 
 </div>
