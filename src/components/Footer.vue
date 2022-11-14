@@ -1,6 +1,10 @@
 <template>
 <div id="footer">
+
+   
+    <h3>Plataforma Desenvolvida Por ALexsandro Do Vale </h3>     
     <p>Make your Burger &copy;2022</p>
+
 </div>
 </template>
 
@@ -18,6 +22,7 @@ export default {
     border-top:4px solid #ff8c00;
     background-color: #222;
     display:flex;
+    flex-direction: column;
     justify-content:center;
     align-items: center;
     bottom:0 ;
